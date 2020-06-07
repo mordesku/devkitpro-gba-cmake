@@ -1,0 +1,6 @@
+cmake-build-debug*
+build/*
+*.elf
+*.gba
+*.sav
+*.idea
